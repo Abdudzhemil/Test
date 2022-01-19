@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="33d787f0-d699-4a98-960c-ac674c274267" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test.java" afterDir="false" />
+    <list default="true" id="33d787f0-d699-4a98-960c-ac674c274267" name="Changes" comment="vse sdelano">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +30,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/IdeaProjects/Test2" />
   </component>
   <component name="RunManager">
     <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -54,6 +55,36 @@
       <option name="presentableId" value="Default" />
       <updated>1642607913772</updated>
     </task>
+    <task id="LOCAL-00001" summary="vse sdelano">
+      <created>1642608289941</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1642608289941</updated>
+    </task>
+    <task id="LOCAL-00002" summary="vse sdelano">
+      <created>1642608391625</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1642608391625</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="vse sdelano" />
+    <option name="LAST_COMMIT_MESSAGE" value="vse sdelano" />
   </component>
 </project>
